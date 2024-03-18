@@ -7,6 +7,7 @@
 <li> 🤙: More about me:
 <a href="https://github.com/iRakson" target="_blank"><img src="https://img.shields.io/badge/-Rakesh_Raushan-black?logo=github&style=flat-square" alt="github"/></a>
 <a href="https://www.linkedin.com/in/rakesh-raushan-66ab47101" target="_blank"><img src="https://img.shields.io/badge/-Rakesh_Raushan-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
+<a href="mailto:raksonrakesh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Contact_me_via_Gmail-c14438?style=flat&logo=Gmail&logoColor=white&color=BB001B" alt="gmail"></a>
 </li>
 </ul>
 
